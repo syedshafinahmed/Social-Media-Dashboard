@@ -15,7 +15,7 @@ const Two = () => {
             <img src={img} className='rounded-full w-10 h-10 p-1' alt="" />
           </div>
           <div className='flex justify-between p-1'>
-            <img src={ai} className='rounded-full w-10 h-10 p-1' alt="" />
+            <img src={ai} className='rounded-full w-10 h-10' alt="" />
             <div className='bg-yellow-200 px-3 py-1 rounded-sm'>
               <p className='text-black text-xs'>Sure! Here are 5 steps to learn any new skill faster...</p>
             </div>
