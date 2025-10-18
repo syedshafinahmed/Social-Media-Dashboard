@@ -22,7 +22,7 @@ const Two = () => {
           </div>
         </div>
       </div>
-      <div className='bg-[#e6ac10] inline-flex items-center justify-center w-fit h-fit rounded-full border-5 absolute left-36 top-39'>
+      <div className='bg-[#e6ac10] text-white inline-flex items-center justify-center w-fit h-fit rounded-full border-5 absolute left-36 top-39'>
         <img src={arrow} className='w-8' alt="" />
       </div>
     </div>

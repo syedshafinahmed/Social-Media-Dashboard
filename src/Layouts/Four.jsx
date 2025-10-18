@@ -12,7 +12,7 @@ const Four = () => {
             <p className='text-sm'>August, 2024</p>
             <p className='text-xs'>Week 1</p>
           </button>
-          <div className='flex justify-between p-4'>
+          <div className='flex justify-between text-white  p-4'>
             <TiTick className='bg-[#5f31df] rounded-full' />
             <TiTick className='bg-[#5f31df] rounded-full' />
             <TiTick className='bg-[#5f31df] rounded-full' />

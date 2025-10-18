@@ -1,5 +1,6 @@
 import './App.css'
 import Eight from './Layouts/Eight'
+import Five from './Layouts/Five'
 import Four from './Layouts/Four'
 import One from './Layouts/one'
 import Seven from './Layouts/Seven'
@@ -25,7 +26,9 @@ function App() {
           <div class="col-span-2 row-span-3 col-start-5 row-start-4">
             <Four></Four>
           </div>
-          <div class="col-span-2 row-span-6 col-start-7 row-start-1 rounded-md bg-green-700">5</div>
+          <div class="col-span-2 row-span-6 col-start-7 row-start-1">
+            <Five></Five>
+          </div>
           <div class="col-span-4 row-span-3 col-start-5 row-start-7">
             <Six></Six>
           </div>
