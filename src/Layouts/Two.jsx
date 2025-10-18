@@ -4,7 +4,7 @@ import ai from '../assets/chatgpt.jpg'
 import arrow from '../assets/arrowup.png'
 const Two = () => {
   return (
-    <div className='bg-[#dfb645] w-full h-full rounded-md flex flex-col justify-center relative'>
+    <div className='bg-[#e6ac10] w-full h-full rounded-md flex flex-col justify-center relative'>
       <p className='leading-none text-xl p-3 text-black font-medium'>Write your content using AI.</p>
       <div className='p-2'>
         <div className='bg-white p-1 rounded-lg'>
@@ -22,7 +22,7 @@ const Two = () => {
           </div>
         </div>
       </div>
-      <div className='bg-[#dfb645] inline-flex items-center justify-center w-fit h-fit rounded-full border-5 absolute left-36 top-39'>
+      <div className='bg-[#e6ac10] inline-flex items-center justify-center w-fit h-fit rounded-full border-5 absolute left-36 top-39'>
         <img src={arrow} className='w-8' alt="" />
       </div>
     </div>
