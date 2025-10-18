@@ -4,6 +4,7 @@ import Four from './Layouts/Four'
 import One from './Layouts/one'
 import Seven from './Layouts/Seven'
 import Six from './Layouts/Six'
+import Three from './Layouts/Three'
 import Two from './Layouts/Two'
 
 function App() {
@@ -18,7 +19,9 @@ function App() {
           <div class="col-span-2 row-span-4 col-start-1 row-start-6 h-[111%] absolute w-full -top-7">
             <Two></Two>
           </div>
-          <div class="col-span-2 row-span-3 col-start-3 row-start-4 rounded-md bg-red-950">3</div>
+          <div class="col-span-2 row-span-3 col-start-3 row-start-4">
+            <Three></Three>
+          </div>
           <div class="col-span-2 row-span-3 col-start-5 row-start-4">
             <Four></Four>
           </div>
