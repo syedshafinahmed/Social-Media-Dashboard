@@ -2,7 +2,7 @@ import React from 'react';
 import bar from '../assets/bar.png'
 const Five = () => {
   return (
-    <div className='bg-[#a183f5] rounded-md w-full h-full flex flex-col justify-center'>
+    <div className='bg-[#b8a3f1] rounded-md w-full h-full flex flex-col justify-center'>
       <p className='text-black font-bold text-xl leading-none p-5'>Schedule to social media.</p>
 
       <div className='pl-5'>

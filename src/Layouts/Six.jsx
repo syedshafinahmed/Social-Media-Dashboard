@@ -2,7 +2,7 @@ import React from 'react';
 
 const Six = () => {
   return (
-    <div className='bg-[#5f31df] w-full h-full rounded-md'>
+    <div className='bg-[#734ae2] w-full h-full rounded-md'>
 
     </div>
   );
